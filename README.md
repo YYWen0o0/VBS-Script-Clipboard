@@ -1,0 +1,4 @@
+VBS-Script-Clipboard
+====================
+
+clipboard
